@@ -1,0 +1,1200 @@
+Initialize model of the system around RTU_3 (bus b_5).
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723751.375353;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723751.375977.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723751.376131;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723751.376243.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723751.386446;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723751.386569.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723751.386602;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723751.386761.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723754.392162;BRO-command-entry
+LOG;1507723754.392197;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723754.392205
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723754.413612.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723757.416135;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723757.416209.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723757.41624;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723757.416283.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723757.416303;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723757.41633.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723757.416364;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723757.427902.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723760.429556;BRO-command-entry
+LOG;1507723760.429587;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723760.429595
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723760.429635.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723763.437949;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723763.437993.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723763.438014;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723763.438038.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723763.438059;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723763.438082.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723763.4381;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723763.438123.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723766.446089;BRO-command-entry
+LOG;1507723766.446138;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723766.446147
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723766.446195.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723769.454047;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723769.454104.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723769.454167;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723769.454203.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723769.454228;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723769.454258.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723769.454281;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723769.454312.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723772.462212;BRO-command-entry
+LOG;1507723772.462243;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723772.46225
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723772.462288.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723775.470328;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723775.470417.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723775.470451;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723775.47051.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723775.470543;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723775.470595.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723775.470637;BRO-command-entry
+LOG;1507723775.470675;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723775.470684
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723775.481084.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723778.480753;BRO-command-entry
+LOG;1507723778.480791;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723778.480836.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723781.492176;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723781.492221.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723781.492242;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723781.492267.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723781.492285;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723781.492308.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723781.492325;BRO-command-entry
+LOG;1507723781.492352;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723781.49238.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723784.500378;BRO-command-entry
+LOG;1507723784.500427;BRO-command-ALERT
+    BRO MODBUS COMMAND DROPPED (after checks) 1507723784.500433
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723784.510812.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723787.513407;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723787.513493.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723787.513552;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723787.523856.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723787.52397;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723787.524058.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723787.524095;BRO-command-entry
+LOG;1507723787.52414;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723787.524181.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723790.532343;BRO-command-entry
+LOG;1507723790.532381;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723790.53239
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723790.532436.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723793.529734;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723793.540447.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723793.540551;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723793.540614.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723793.540673;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723793.540752.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723793.540815;BRO-command-entry
+LOG;1507723793.540853;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723793.540887.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723796.548647;BRO-command-entry
+LOG;1507723796.548721;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723796.548735
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723796.548851.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723799.546001;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723799.556576.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723799.556612;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723799.556643.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723799.556669;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723799.556696.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723799.556715;BRO-command-entry
+LOG;1507723799.556742;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723799.556748
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723799.55677.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723802.564668;BRO-command-entry
+LOG;1507723802.564715;BRO-command-ALERT
+    BRO MODBUS COMMAND DROPPED (after checks) 1507723802.56472
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723802.564775.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723805.572925;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723805.572972.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723805.572995;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723805.573021.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723805.573041;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723805.573101.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723805.573124;BRO-command-entry
+LOG;1507723805.573156;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723805.573186.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723808.581159;BRO-command-entry
+LOG;1507723808.581223;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723808.581277.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723811.58893;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723811.588982.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723811.589006;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723811.589034.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723811.589055;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723811.58908.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723811.5891;BRO-command-entry
+LOG;1507723811.589128;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723811.589152.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723814.597165;BRO-command-entry
+LOG;1507723814.597193;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723814.5972
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723814.597243.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723817.605136;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723817.615826.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723817.615861;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723817.615891.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723817.615911;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723817.615934.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723817.615951;BRO-command-entry
+LOG;1507723817.61598;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723817.616002.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723820.62395;BRO-command-entry
+LOG;1507723820.623997;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723820.624009
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723820.624076.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723823.632286;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723823.632374.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723823.632417;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723823.632477.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723823.642793;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723823.64292.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723823.64298;BRO-command-entry
+LOG;1507723823.643046;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723823.643066
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723823.643197.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723826.650881;BRO-command-entry
+LOG;1507723826.650931;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723826.650941
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723826.650997.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723829.654776;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723829.654835.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723829.665956;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723829.666003.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723829.666024;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723829.666049.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723829.666067;BRO-command-entry
+LOG;1507723829.666093;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723829.666114.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723832.667035;BRO-command-entry
+LOG;1507723832.667093;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723832.667105
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723832.667194.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723835.670314;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723835.670395.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723835.680591;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723835.680641.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723835.680674;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723835.680706.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723835.68073;BRO-command-entry
+LOG;1507723835.680765;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723835.680794.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723838.683277;BRO-command-entry
+LOG;1507723838.683335;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723838.683403.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723841.691357;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723841.691416.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723841.691438;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723841.691462.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723841.69148;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723841.691504.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723841.702002;BRO-command-entry
+LOG;1507723841.702035;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723841.702072.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723844.699528;BRO-command-entry
+LOG;1507723844.69963;BRO-command-ALERT
+    BRO MODBUS COMMAND DROPPED (after checks) 1507723844.699638
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723844.720899.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723847.728953;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723847.728997.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723847.729018;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723847.729042.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723847.729061;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723847.729094.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723847.729112;BRO-command-entry
+LOG;1507723847.729137;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723847.729144
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723847.729165.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723850.732322;BRO-command-entry
+LOG;1507723850.732353;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723850.73236
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723850.732408.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723853.742749;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723853.742804.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723853.742826;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723853.742851.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723853.742869;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723853.742892.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723853.742937;BRO-command-entry
+LOG;1507723853.742963;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723853.742987.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723856.753347;BRO-command-entry
+LOG;1507723856.753404;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723856.753418
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723856.753489.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723859.761477;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723859.761541.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723859.761571;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723859.761617.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723859.761641;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723859.761715.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723859.761744;BRO-command-entry
+LOG;1507723859.761785;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723859.76181.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723862.769553;BRO-command-entry
+LOG;1507723862.769604;BRO-command-ALERT
+    BRO MODBUS COMMAND DROPPED (after checks) 1507723862.769609
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723862.769705.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723865.777697;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723865.777789.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723865.777833;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723865.777885.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723865.777924;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723865.777981.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723865.778014;BRO-command-entry
+LOG;1507723865.778063;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723865.778115.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723868.785808;BRO-command-entry
+LOG;1507723868.785852;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723868.785901.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723871.793821;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723871.793899.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723871.793924;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723871.793952.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723871.793971;BRO-command-entry
+LOG;1507723871.793996;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723871.794003
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723871.794025.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723871.794043;BRO-command-entry
+LOG;1507723871.794063;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723871.794068
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723871.794089.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723874.801877;BRO-command-entry
+LOG;1507723874.801913;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723874.801957.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723877.804956;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723877.815411.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723877.815506;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723877.815563.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723877.815598;BRO-command-entry
+LOG;1507723877.81564;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723877.826774.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723877.826809;BRO-command-entry
+LOG;1507723877.826846;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723877.82688.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723880.828998;BRO-command-entry
+LOG;1507723880.829125;BRO-command-ALERT
+    BRO MODBUS COMMAND DROPPED (after checks) 1507723880.829139
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723880.829264.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723883.829358;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723883.829432.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723883.829472;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723883.829519.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723883.839998;BRO-command-entry
+LOG;1507723883.840051;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723883.840155.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723883.840221;BRO-command-entry
+LOG;1507723883.840271;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723883.840322.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723886.847476;BRO-command-entry
+LOG;1507723886.847514;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723886.847557.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723889.850888;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723889.850933.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723889.850956;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723889.850983.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723889.851003;BRO-command-entry
+LOG;1507723889.851032;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723889.851056.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723889.851075;BRO-command-entry
+LOG;1507723889.851097;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723889.85112.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723892.861192;BRO-command-entry
+LOG;1507723892.861233;BRO-command-ALERT
+    BRO MODBUS COMMAND DROPPED (after checks) 1507723892.861237
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723892.861282.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723895.861518;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723895.872696.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723895.872727;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723895.872758.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723895.872788;BRO-command-entry
+LOG;1507723895.872819;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723895.872843.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723895.872863;BRO-command-entry
+LOG;1507723895.872884;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723895.872891
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723895.872914.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723898.88185;BRO-command-entry
+LOG;1507723898.881884;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723898.881923.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723901.885565;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723901.885711.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723901.885757;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723901.88581.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723901.885848;BRO-command-entry
+LOG;1507723901.885901;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723901.885947.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723901.885998;BRO-command-entry
+LOG;1507723901.886041;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723901.886086.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723904.884598;BRO-command-entry
+LOG;1507723904.884643;BRO-command-ALERT
+    BRO MODBUS COMMAND DROPPED (after checks) 1507723904.884646
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723904.884688.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723907.891171;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723907.891241.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723907.902153;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723907.902275.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723907.90238;BRO-command-entry
+LOG;1507723907.902422;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723907.902464.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723907.902495;BRO-command-entry
+LOG;1507723907.902527;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723907.924591.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723910.920506;BRO-command-entry
+LOG;1507723910.92054;BRO-command-ALERT
+    BRO MODBUS COMMAND DROPPED (after checks) 1507723910.920543
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723910.920586.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to T.
+LOG;1507723913.924547;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723913.924594.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723913.924615;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723913.924641.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723913.924659;BRO-command-entry
+LOG;1507723913.924699;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723913.924729.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723913.935239;BRO-command-entry
+LOG;1507723913.935287;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723913.93534.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723916.93364;BRO-command-entry
+LOG;1507723916.933691;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723916.933774.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723919.944783;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723919.944856.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723919.944939;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723919.944995.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723919.945031;BRO-command-entry
+LOG;1507723919.945071;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723919.945083
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723919.945126.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723919.945162;BRO-command-entry
+LOG;1507723919.945196;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723919.945206
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723919.955525.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723922.952948;BRO-command-entry
+LOG;1507723922.95298;BRO-command-ALERT
+    BRO MODBUS COMMAND DROPPED (after checks) 1507723922.952983
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723922.95303.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723925.962391;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723925.962436.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723925.962458;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723925.962484.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723925.962503;BRO-command-entry
+LOG;1507723925.962531;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723925.962553.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723925.962571;BRO-command-entry
+LOG;1507723925.962592;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723925.962614.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723928.969415;BRO-command-entry
+LOG;1507723928.969497;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723928.969652.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723931.979449;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723931.979501.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723931.979521;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723931.979553.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723931.979573;BRO-command-entry
+LOG;1507723931.979618;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723931.979652.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723931.979678;BRO-command-entry
+LOG;1507723931.9797;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723931.990173.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723934.985649;BRO-command-entry
+LOG;1507723934.985685;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723934.985728.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723937.993568;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723937.99363.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to T.
+LOG;1507723937.993687;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723937.993719.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723938.004204;BRO-command-entry
+LOG;1507723938.004241;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723938.004282.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723938.004303;BRO-command-entry
+LOG;1507723938.004327;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723938.004358.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723941.006787;BRO-command-entry
+LOG;1507723941.00682;BRO-command-ALERT
+    BRO MODBUS COMMAND DROPPED (after checks) 1507723941.006824
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723941.017412.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723944.020326;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723944.020374.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723944.020398;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723944.02045.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723944.020485;BRO-command-entry
+LOG;1507723944.020532;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723944.020575.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723944.031398;BRO-command-entry
+LOG;1507723944.031491;BRO-command-allowed
+    BRO MODBUS COMMAND AFTER CHECKS 1507723944.031514
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723944.031625.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to F.
+LOG;1507723947.028493;BRO-command-entry
+LOG;1507723947.028533;BRO-command-ALERT
+    BRO MODBUS COMMAND DROPPED (after checks) 1507723947.028537
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723947.028579.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723950.034964;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723950.03503.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723950.035063;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723950.035104.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723950.045643;BRO-command-entry
+LOG;1507723950.045675;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723950.045711.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723950.04573;BRO-command-entry
+LOG;1507723950.04575;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723950.045772.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723953.046175;BRO-command-entry
+LOG;1507723953.046214;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723953.046259.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723956.052708;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723956.052756.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723956.052777;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723956.052836.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723956.063375;BRO-command-entry
+LOG;1507723956.06342;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723956.063472.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723956.063506;BRO-command-entry
+LOG;1507723956.063541;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723956.06358.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to F.
+LOG;1507723959.065322;BRO-command-entry
+LOG;1507723959.065365;BRO-command-ALERT
+    BRO MODBUS COMMAND DROPPED (after checks) 1507723959.065369
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723959.065419.
+New Modbus message:
+    New Modbus write single coil request: set coil 0 to T.
+LOG;1507723962.073993;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723962.074081.
+New Modbus message:
+    New Modbus write single coil request: set coil 2 to T.
+LOG;1507723962.074131;BRO-command-entry
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723962.074189.
+New Modbus message:
+    New Modbus write single coil request: set coil 1 to F.
+LOG;1507723962.074229;BRO-command-entry
+LOG;1507723962.074277;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723962.074323.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723962.074359;BRO-command-entry
+LOG;1507723962.0744;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723962.084586.
+New Modbus message:
+    New Modbus write single coil request: set coil 3 to F.
+LOG;1507723965.084965;BRO-command-entry
+LOG;1507723965.084997;BRO-command-repeat
+New Modbus message:
+    New Modbus write single coil response.
+    BRO MODBUS COMMAND RESPONSE 1507723965.085034.
+Done.
